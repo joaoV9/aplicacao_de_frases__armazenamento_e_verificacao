@@ -1,0 +1,2 @@
+module atidade_2 {
+}
